@@ -1,0 +1,18 @@
+{
+  "name": "typed-paths",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "tsc && node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^2.2.2"
+  },
+  "dependencies": {
+    "@types/node": "^7.0.13",
+    "immutable": "git://github.com/facebook/immutable-js#v4.0.0-rc.2"
+  }
+}
